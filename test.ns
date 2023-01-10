@@ -1,0 +1,9 @@
+#nalascript
+out("Hello World")
+let a := 5.3
+
+if(a >= 5){
+    out("a > 5")
+} else {
+    out("a < 5")
+}
